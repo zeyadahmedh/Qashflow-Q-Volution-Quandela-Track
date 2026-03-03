@@ -3,6 +3,7 @@
 This repository contains the project for the Q-Volution Hackathon by Girls In Quantum, supported by Quandela, focused on forecasting swaption volatility surfaces using hybrid quantum-classical machine learning models. The primary goal is to predict future volatility surfaces based on historical data.
 
 Several models were developed and tested, including a classical LSTM baseline and various hybrid architectures that integrate photonic quantum circuits. The standout model, **Hybrid Photonic-Quantum Reservoir Computing (HP-QRC)**, demonstrates a novel approach by combining quantum and classical reservoir computing techniques.
+You can explore our findings as well through: https://qashflow.vercel.app/, where you can try datasets and see how each model perform. 
 
 ## Models Explored
 

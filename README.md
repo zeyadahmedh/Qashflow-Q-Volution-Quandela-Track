@@ -1,6 +1,6 @@
 # Qashflow Q-Volution: Quandela Track
 
-This repository contains the project for the Q-Volution Hackathon by Quandela, focused on forecasting swaption volatility surfaces using hybrid quantum-classical machine learning models. The primary goal is to predict future volatility surfaces based on historical data.
+This repository contains the project for the Q-Volution Hackathon by Girls In Quantum, supported by Quandela, focused on forecasting swaption volatility surfaces using hybrid quantum-classical machine learning models. The primary goal is to predict future volatility surfaces based on historical data.
 
 Several models were developed and tested, including a classical LSTM baseline and various hybrid architectures that integrate photonic quantum circuits. The standout model, **Hybrid Photonic-Quantum Reservoir Computing (HP-QRC)**, demonstrates a novel approach by combining quantum and classical reservoir computing techniques.
 
